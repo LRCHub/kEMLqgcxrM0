@@ -1,0 +1,54 @@
+# じん – BLUE BACK
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+아직 난 거기 살아
+너의 세상이 다 나였던 계절에
+나 홀로 되뇌는 말
+다시 돌아간다면 무슨 말을 할까
+널 불러도
+다시 메아리처럼 울려, 날 해쳐
+기다림도
+내겐 사랑이라고 애써
+별 하나 없는 이 까만 밤
+불 꺼진 무대 위로
+늦은 잔상처럼 남아
+아직 헤매고 있어
+Maybe in another place,
+another time
+되돌릴 수 있다면
+그땐 곁에 내가 있을까
+널 기다리는 나
+I'll be here in the background
+다른 색깔로 그린
+서로 물든 채 뒤섞여 가던 꿈
+점점 잊혀진다는 게
+때론 미칠 것 같지
+but I still choose you
+네게 전부
+과거가 돼버린 내 흔적, 다 해져
+기다림도
+사랑이라 꽤 할만해져
+별 하나 없는 이 까만 밤
+불 꺼진 무대 위로
+늦은 잔상처럼 남아
+아직 헤매고 있어
+Maybe in another place,
+another time
+되돌릴 수 있다면
+그땐 곁에 내가 있을까
+널 기다리는 나
+I'll be here in the background
+Here in the background
+모든 이야기가 끝난 밤
+불 꺼진 무대 위로
+늦은 잔상처럼 남아
+또 널 헤매고 있어
+Maybe in another place,
+another time
+되돌릴 수 있다면
+그땐 곁에 내가 있을까
+널 기다리는 나
+I'll be here in the background
+```
