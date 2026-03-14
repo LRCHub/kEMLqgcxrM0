@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "BLUE BACK",
+  "base_artist": "じん",
+  "createdAt": "2026-03-14T16:56:53.724465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Back (Inside Paper)",
+      "artist": "Can",
+      "has_synced": false,
+      "path": "select/01_Blue_Back_(Inside_Paper)_Can.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Our Blue (Back to You X CHEEZE)",
+      "artist": "CHEEZE",
+      "has_synced": true,
+      "path": "select/02_Our_Blue_(Back_to_You_X_CHEEZE)_CHEEZE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Our Blue (Back to You X CHEEZE) - Single",
+      "artist": "CHEEZE",
+      "has_synced": true,
+      "path": "select/03_Our_Blue_(Back_to_You_X_CHEEZE)_-_Single_CHEEZE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "life is blue back",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/04_life_is_blue_back_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "life is blue back (OFF VOCAL)",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/05_life_is_blue_back_(OFF_VOCAL)_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Worlders (BLUE BACK Ver.)",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/06_Worlders_(BLUE_BACK_Ver.)_Jin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BLUE BACK",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/07_BLUE_BACK_Jin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Newton (BLUE BACK Ver.)",
+      "artist": "JIN",
+      "has_synced": false,
+      "path": "select/08_Newton_(BLUE_BACK_Ver.)_JIN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Back",
+      "artist": "Grapevine",
+      "has_synced": true,
+      "path": "select/09_Blue_Back_Grapevine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Back Down",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/10_Never_Back_Down_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson feat. Alan Walker",
+      "has_synced": true,
+      "path": "select/12_Back_to_Beautiful_Sofia_Carson_feat._Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson;Alan Walker",
+      "has_synced": true,
+      "path": "select/13_Back_to_Beautiful_Sofia_Carson;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/14_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/15_Come_Back_As_A_Country_Boy_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/16_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Throw It Back (feat. Keith Urban)",
+      "artist": "BRELAND feat. Keith Urban",
+      "has_synced": true,
+      "path": "select/17_Throw_It_Back_(feat._Keith_Urban)_BRELAND_feat._Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Throw It Back (feat. Keith Urban)",
+      "artist": "BRELAND",
+      "has_synced": true,
+      "path": "select/18_Throw_It_Back_(feat._Keith_Urban)_BRELAND.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Want That Back",
+      "artist": "Brett Eldredge",
+      "has_synced": true,
+      "path": "select/19_Want_That_Back_Brett_Eldredge.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_God_Is_Calling_Me_Back_Home_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "God Is Calling Me Back Home",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/21_God_Is_Calling_Me_Back_Home_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/22_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/23_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Want It Back",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/24_Want_It_Back_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Want It Back",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/25_Want_It_Back_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Ain't Back Yet",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/26_Ain't_Back_Yet_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Amy's Back In Austin",
+      "artist": "Little Texas",
+      "has_synced": true,
+      "path": "select/27_Amy's_Back_In_Austin_Little_Texas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Background",
+      "artist": "JIN",
+      "has_synced": false,
+      "path": "select/pl_01_Background_JIN.txt"
+    }
+  ]
+}
